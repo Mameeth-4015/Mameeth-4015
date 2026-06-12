@@ -1,18 +1,28 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Mameeth%20C&subtitle=Aspiring%20Data%20Analyst&fontSize=50&animation=fadeIn" width="100%"/>
-</div>
+  
+  <!-- ANIMATED HEADER GRAPHIC -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=black&height=180&section=header&text=MAMEETH%20C&fontSize=60&animation=twinkling&fontColor=00FFCC" width="100%"/>
 
-<div align="center">
+  <br/>
+
+  <!-- DYNAMIC TYPEWRITER ANIMATION -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst+📊;Data+Cleaning+Specialist+🧹;Insight+Generator+💡" alt="Typing SVG" />
+  </a>
+
+  <br/>
+  
+  <!-- GLOWING SOCIAL BADGES -->
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE_URL" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+
 </div>
 
-<br/>
-
+---
 ## 🎯 About Me
 
 I am a results-driven **Data Analyst** dedicated to transforming raw, complex datasets into clear, actionable business strategies. I specialize in data pipelines, rigorous data cleaning, and crafting high-impact interactive dashboards that empower teams to make data-backed decisions.
@@ -22,53 +32,6 @@ I am a results-driven **Data Analyst** dedicated to transforming raw, complex da
 - ⚡ **Philosophy:** *“Data is valuable, but insights are priceless.”*
 
 ---
-
-## 🛠️ Technical Ecosystem
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🔍 Data Engineering & Analysis</h4>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📊 Business Intelligence & Analytics</h4>
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 Git Performance & Analytics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Mameeth's GitHub Stats" height="180px"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px"/>
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
-</div>
-
----
-
-<div align="center">
-  <h5>🚀 Thanks for stopping by! Drop a ⭐ on any repository if you find it helpful.</h5>
-</div>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kutty_idiot_005) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mameethc) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivasiva6577@gmail.com) 
 
