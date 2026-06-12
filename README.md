@@ -1,5 +1,13 @@
 # 💫 About Me:
 👋 Hi, I'm [MAMEETH C]<br>🎯Data Analyst - Python · SQL · Power BI · Excel · Tableau · Generative AI <br>📊 I turn raw data into insights<br>🌱 Currently learning: Machine Learning<br>💼 Open to: Data Analyst roles<br>📍 Location: Namakkal, Tamil Nadu, India<br>
+## 🚀 About Me
+
+I am an aspiring **Data Analyst** passionate about transforming raw, complex datasets into meaningful, actionable insights. With a strong foundation in data cleaning, exploratory data analysis, and advanced visualization, I specialize in uncovering hidden trends that drive strategic business decisions. 
+
+* **🛠️ Technical Toolkit:** Python, SQL, MS Excel, Power BI, & Tableau
+* **🎯 Focus Areas:** Data Wrangling, Dashboard Design, & Predictive Insights
+
+I thrive on bridging the gap between data and strategy, and I am always looking for opportunities to collaborate on impactful data-driven projects!
 
 
 ## 🌐 Socials:
