@@ -1,16 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Mameeth%20C&subtitle=Aspiring%20Data%20Analyst&fontSize=50&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Mameeth%20C&fontSize=55&fontAlign=50&fontAlignY=40&animation=twinkling&desc=Aspiring%20Data%20Analyst&descAlign=50&descAlignY=65&descSize=20" width="100%"/>
 </div>
----
+
+
 ## 🎯 About Me
 
-I am a results-driven **Data Analyst** dedicated to transforming raw, complex datasets into clear, actionable business strategies. I specialize in data pipelines, rigorous data cleaning, and crafting high-impact interactive dashboards that empower teams to make data-backed decisions.
+🎯 Aspiring Data Analyst with a passion for turning messy, complex datasets into clear, actionable business stories. 📊 I specialize in diving deep into numbers using SQL and Excel, then bringing those insights to life through interactive dashboards in Tableau and Power BI. 🚀 From data cleaning to storytelling, I love finding the "why" behind the data to help organizations make smart, data-driven decisions. 💡 Always curious and continuously upskilling, I’m actively looking for opportunities to jump into a team and make an impact! 👨‍💻📈
 
-- 📈 **Current Focus:** Advanced Exploratory Data Analysis (EDA) and optimizing SQL query performance.
-- 🌱 **Learning Journey:** Integrating Machine Learning models for predictive analytics.
-- ⚡ **Philosophy:** *“Data is valuable, but insights are priceless.”*
-
----
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kutty_idiot_005) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mameethc) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivasiva6577@gmail.com) 
 
