@@ -1,13 +1,72 @@
-# 💫 About Me:
-👋 Hi, I'm [MAMEETH C]<br>🎯Data Analyst - Python · SQL · Power BI · Excel · Tableau · Generative AI <br>📊 I turn raw data into insights<br>🌱 Currently learning: Machine Learning<br>💼 Open to: Data Analyst roles<br>📍 Location: Namakkal, Tamil Nadu, India<br>
-## 🚀 About Me
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Mameeth%20C&subtitle=Aspiring%20Data%20Analyst&fontSize=50&animation=fadeIn" width="100%"/>
+</div>
 
-I am an aspiring **Data Analyst** passionate about transforming raw, complex datasets into meaningful, actionable insights. With a strong foundation in data cleaning, exploratory data analysis, and advanced visualization, I specialize in uncovering hidden trends that drive strategic business decisions. 
+<div align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
-* **🛠️ Technical Toolkit:** Python, SQL, MS Excel, Power BI, & Tableau
-* **🎯 Focus Areas:** Data Wrangling, Dashboard Design, & Predictive Insights
+<br/>
 
-I thrive on bridging the gap between data and strategy, and I am always looking for opportunities to collaborate on impactful data-driven projects!
+## 🎯 About Me
+
+I am a results-driven **Data Analyst** dedicated to transforming raw, complex datasets into clear, actionable business strategies. I specialize in data pipelines, rigorous data cleaning, and crafting high-impact interactive dashboards that empower teams to make data-backed decisions.
+
+- 📈 **Current Focus:** Advanced Exploratory Data Analysis (EDA) and optimizing SQL query performance.
+- 🌱 **Learning Journey:** Integrating Machine Learning models for predictive analytics.
+- ⚡ **Philosophy:** *“Data is valuable, but insights are priceless.”*
+
+---
+
+## 🛠️ Technical Ecosystem
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔍 Data Engineering & Analysis</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 Business Intelligence & Analytics</h4>
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Git Performance & Analytics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Mameeth's GitHub Stats" height="180px"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px"/>
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+  <h5>🚀 Thanks for stopping by! Drop a ⭐ on any repository if you find it helpful.</h5>
+</div>
 
 
 ## 🌐 Socials:
