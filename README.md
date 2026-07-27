@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Mameeth%20C%20✨📊💻&fontSize=55&fontAlign=50&fontAlignY=40&animation=twinkling&desc=Aspiring%20Data%20Analyst%20🚀📈&descAlign=50&descAlignY=65&descSize=20" width="100%"/>
 </div>
 
-
 ## 🎯 About Me
 
 🎯 Aspiring Data Analyst with a passion for turning messy, complex datasets into clear, actionable business stories. 📊 I specialize in diving deep into numbers using SQL and Excel, then bringing those insights to life through interactive dashboards in Tableau and Power BI. 🚀 From data cleaning to storytelling, I love finding the "why" behind the data to help organizations make smart, data-driven decisions. 💡 Always curious and continuously upskilling, I’m actively looking for opportunities to jump into a team and make an impact! 👨‍💻📈
